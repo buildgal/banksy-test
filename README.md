@@ -25,7 +25,8 @@ Feature: I can open my application and browse the product
 
 
 # General Information
-Following is general information about this boiler plate
+Following is general information about this boiler plate.
+Items from the boilerplate were removed. 
 
 ### WebdriverIO-v6 boilerplate code with Cucumber BDD
 
